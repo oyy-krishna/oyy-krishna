@@ -1,4 +1,4 @@
-- 👋 Hi, I’m #krishna
+- 👋 Hi, I’m krishna
 - 👀 I’m interested in all kind of technologies
 - 🌱 I’m currently learning NEXTjs
 - 💞️ I’m looking to collaborate on any kind of projects
